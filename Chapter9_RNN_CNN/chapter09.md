@@ -242,7 +242,7 @@ YValid  = categorical(validTbl.Category);
 
 > <img src="https://latex.codecogs.com/gif.latex?\vec{h_0&space;}&space;=0,"/>
 
-> <img src="https://latex.codecogs.com/gif.latex?\vec{h_t&space;}&space;=\overrightarrow{{{RNN}}}&space;\left({{emb\left(x_t&space;\right),\vec{h_{t-1}&space;}&space;}}\right),"/>>
+> <img src="https://latex.codecogs.com/gif.latex?\vec{h_t&space;}&space;=\overrightarrow{{{RNN}}}&space;\left({{emb\left(x_t&space;\right),\vec{h_{t-1}&space;}&space;}}\right),"/>
 
 > <img src="https://latex.codecogs.com/gif.latex?y={{softmax}}\left(W^{(yh)}&space;\vec{h_T&space;}&space;+b^{(y)}&space;\right)"/>
 
